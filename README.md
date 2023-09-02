@@ -8,15 +8,15 @@ In the notebook named "part_1_mars_news_Nikita.ipynb", I used automated browsing
 ## Part 2, Mars Weather: Scrape and Analyze Mars Weather Data
 In the notebook named "part_2_mars_weather-Nikita.ipynb", the HTML table was extracted into a Pandas DataFrame using Splinter and Beautiful Soup. The data was then cleaned and restructured assigning the appropriate data types. The extracted data was saved to mars_weather.csv. the data was then analyzed to answer some questions:
 
-- How many months on Mars?/n
+- How many months on Mars?<br>
   12 months
-- How many Martian days of data are there?/n
+- How many Martian days of data are there?<br>
   1,867 days
-- What are the coldest and warmest months on Mars?/n
-  Coldest: Month 3,/n
+- What are the coldest and warmest months on Mars?<br>
+  Coldest: Month 3,<br>
   Warmest: Month 8
-- Which months have the highest and lowest atmospheric pressure on Mars?/n
-  Highest: Month 9/n
+- Which months have the highest and lowest atmospheric pressure on Mars?<br>
+  Highest: Month 9,<br>
   Lowest: Month 6
-- About how many Earth days exist in a Martian year?/n
+- About how many Earth days exist in a Martian year?<br>
   About 675 Earth days
