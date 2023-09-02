@@ -6,7 +6,7 @@ Module 11 assignment focused on honing our knowledge and skills of web scraping 
 In the notebook named "part_1_mars_news_Nikita.ipynb", I used automated browsing (with Splinter) to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). The titles and preview text of the news articles were scraped and extracted and the extracted information was stored in a list of dictionaries.
 
 ## Part 2, Mars Weather: Scrape and Analyze Mars Weather Data
-In the notebook named "part_2_mars_weather-Nikita.ipynb", the HTML table was extracted into a Pandas DataFrame using Splinter and Beautiful Soup. The data was then cleaned and restructured assigning the appropriate data types. The extracted data was saved to mars_weather.csv. the data was then analyzed to answer some questions:
+In the notebook named "part_2_mars_weather-Nikita.ipynb", the HTML table was extracted into a Pandas DataFrame using Splinter and Beautiful Soup. Data was then cleaned and restructured assigning the appropriate data types. The extracted data was saved to mars_weather.csv. the data was then analyzed to answer some questions:
 
 - How many months on Mars?<br>
   12 months
