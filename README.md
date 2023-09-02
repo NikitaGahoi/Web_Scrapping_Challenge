@@ -13,10 +13,10 @@ In the notebook named "part_2_mars_weather-Nikita.ipynb", the HTML table was ext
 - How many Martian days of data are there?<br>
   1,867 days
 - What are the coldest and warmest months on Mars?<br>
-  Coldest: Month 3,<br>
+  Coldest: Month 3<br>
   Warmest: Month 8
 - Which months have the highest and lowest atmospheric pressure on Mars?<br>
-  Highest: Month 9,<br>
+  Highest: Month 9<br>
   Lowest: Month 6
 - About how many Earth days exist in a Martian year?<br>
   About 675 Earth days
